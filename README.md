@@ -6,13 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrilathaKasireddy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrilathaKasireddy&show_icons=true)  
-<img alt="contribution" src="https://github.com/SrilathaKasireddy/SrilathaKasireddy/blob/output/github-contribution-grid-snake.svg" />
-
 
 
 lets connect❤️
